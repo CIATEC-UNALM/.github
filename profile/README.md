@@ -32,4 +32,4 @@ Este es un espacio abierto para estudiantes e investigadores molineros. Si desea
 
 ---
 📩 **Contacto:** [ciatec@lamolina.edu.pe](mailto:ciatec@lamolina.edu.pe)  
-📍 **Ubicación:** Facultad de Agronomía, UNALM - Lima, Perú.
+📍 **Ubicación:** PIPS Maíz, UNALM - Lima, Perú.
